@@ -1,8 +1,14 @@
-{
-    "task": "sleep",
-    "status": "not completed"
-}
-{
-    "task": "eat",
-    "status": "not completed"
-}
+[
+    {
+        "task": "food",
+        "status": "completed"
+    },
+    {
+        "task": "drink",
+        "status": "not completed"
+    },
+    {
+        "task": "sleep",
+        "status": "completed"
+    }
+]
